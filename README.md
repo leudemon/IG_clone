@@ -1,6 +1,7 @@
 # flutter_firebase
 
-A new Flutter project.
+An Instagram clone that uses flutter, dart and firebase.
+
 
 ## Getting Started
 
