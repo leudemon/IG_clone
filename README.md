@@ -1,9 +1,9 @@
-# flutter_firebase
+# Intro
 
 An Instagram clone that uses flutter, dart and firebase.
 
 
-## Getting Started
+## Description
 
 This project is a starting point for a Flutter application.
 the purpose of this project is to attempt making a functional Instagram clone that would allow a user to have quite a similar experience scrolling through the app. 
@@ -14,6 +14,6 @@ the app has the following feaetures.
 3-allows the logged in user to experience their instagram experience.
 
 features to be added soon.
-1-the display of actual content from a particular server
+1-the display of actual content from a API
 2-personalized content
 3-instagram stories and posts to allow the users to share their own content. 
